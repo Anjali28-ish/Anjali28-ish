@@ -9,15 +9,16 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 <a href="https://www.linkedin.com/in/anjali-kumari-2b1b4928b">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:anjalikumarimishra28@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](
+https://mail.google.com/mail/?view=cm&fs=1&to=anjalikumarimishra28@gmail.com
+)
+
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🎓 Computer Science Undergraduate  
+- 🎓 3rd Year B.Tech Computer Science Student 
 - 💻 Strong in **Web Development & Full-Stack (MERN)**  
 - 🛠 Experience with **Google Cloud Arcade, Bharat Intern, IIT Patna**  
 - 🌱 Currently improving **DSA + System Design basics**  
@@ -59,7 +60,7 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 
 ## 🚀 Featured Projects
 - 🎥 **MERN Video Platform** – Authentication, CRUD, REST APIs  
-- 🛒 **E-Commerce App** – Cart, product management, responsive UI  
+- 🛒 **E-Commerce Website** – Cart, product management, responsive UI  
   
 
 
