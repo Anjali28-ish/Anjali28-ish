@@ -30,8 +30,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anjali28-ish&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anjali28-ish&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Anjali28-ish&theme=github-dark)
