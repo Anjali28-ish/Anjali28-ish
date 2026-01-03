@@ -12,7 +12,7 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 <a href="mailto:anjalikumarimishra28@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
-)
+
 
 </p>
 
