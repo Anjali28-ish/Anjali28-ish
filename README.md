@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack </h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack | Problem Solver </h3>
 
 <p align="center">
 I build scalable, user-focused web applications and enjoy solving real-world problems using clean and efficient code.
