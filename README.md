@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjali Kumari</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack | CS Undergraduate</h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack </h3>
 
 <p align="center">
 I build scalable, user-focused web applications and enjoy solving real-world problems using clean and efficient code.
@@ -21,7 +21,7 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 - 💻 Strong in **Web Development & Full-Stack (MERN)**  
 - 🛠 Experience with **Google Cloud Arcade, Bharat Intern, IIT Patna**  
 - 🌱 Currently improving **DSA + System Design basics**  
-- 🎯 Goal: **Software Engineering Internship / FAANG-level roles**
+- 🎯 Goal: **Software Engineering Internship**
 
 ---
 
@@ -60,9 +60,9 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 ## 🚀 Featured Projects
 - 🎥 **MERN Video Platform** – Authentication, CRUD, REST APIs  
 - 🛒 **E-Commerce App** – Cart, product management, responsive UI  
-- 🌐 **Portfolio Website** – Modern UI with TailwindCSS  
+  
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -72,13 +72,6 @@ I build scalable, user-focused web applications and enjoy solving real-world pro
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali28-ish&layout=compact&theme=dark"/>
 </p>
-
----
-
-## 🔝 Open Source Contributions
-![](https://github-contributor-stats.vercel.app/api?username=Anjali28-ish&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Anjali28-ish&theme=github-dark)
